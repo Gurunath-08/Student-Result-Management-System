@@ -1,6 +1,7 @@
 ******📚 Student Result Management System******
 
 
+
 A Java Swing + MySQL desktop application to manage student records, subjects, and exam results with a clean and modern graphical user interface.
 
 
